@@ -2,10 +2,10 @@
   "name": "doxygen-unity-package",
   "version": "1.0.0",
   "description": "Generates doxygen docs for a unity3d package",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
       "version": "git add -A",
-      "postversion": "git push && git push --tags && npm run clean",
+      "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "larrykirschner@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/beatthat/doxygen-unity-package/issues"
   },
