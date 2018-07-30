@@ -2,7 +2,8 @@
   "name": "doxygen-unity-package",
   "version": "1.0.2",
   "description": "Generates doxygen docs for a unity3d package",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": ["lib"],
   "scripts": {
     "version": "git add -A",
     "postversion": "git push && git push --tags"
