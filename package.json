@@ -1,0 +1,26 @@
+{
+  "name": "doxygen-unity-package",
+  "version": "1.0.0",
+  "description": "Generates doxygen docs for a unity3d package",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatthat/doxygen-unity-package.git"
+  },
+  "keywords": [],
+  "author": "larrykirschner@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatthat/doxygen-unity-package/issues"
+  },
+  "homepage": "https://github.com/beatthat/doxygen-unity-package#readme",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "doxygen": "^0.3.0",
+    "fs-extra": "^7.0.0",
+    "path": "^0.12.7"
+  }
+}
