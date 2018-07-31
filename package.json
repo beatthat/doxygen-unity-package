@@ -1,6 +1,6 @@
 {
   "name": "doxygen-unity-package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generates doxygen docs for a unity3d package",
   "main": "lib/index.js",
   "files": [
