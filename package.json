@@ -4,7 +4,7 @@
   "description": "Generates doxygen docs for a unity3d package",
   "main": "lib/index.js",
   "files": [
-    "lib"
+    "lib", "resources"
   ],
   "scripts": {
     "version": "git add -A",
